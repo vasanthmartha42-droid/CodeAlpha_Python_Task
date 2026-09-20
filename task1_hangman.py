@@ -1,4 +1,3 @@
-********hangman.py************
 import random
 
 def play_hangman():
